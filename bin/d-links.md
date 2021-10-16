@@ -1,0 +1,4 @@
+Takt Op. Destiny:
+magnet:?xt=urn:btih:8ae46d0be91f75fc06140e3b20888b00b31011fd&dn=%5BSubsPlease%5D%20Takt%20Op.%20Destiny%20-%2002%20%281080p%29%20%5BFBAD353C%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce
+magnet:?xt=urn:btih:3764303a2a61b7ca3c722189846f809e1d838659&dn=%5BSubsPlease%5D%20Takt%20Op.%20Destiny%20-%2001%20%281080p%29%20%5BDB124E70%5D.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce
+
