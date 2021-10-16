@@ -4,7 +4,7 @@ import requests
 import httplib2
 from bs4 import BeautifulSoup, SoupStrainer
 
-with open("titles.md") as fp:
+with open("../bin/titles.md") as fp:
     for title in fp:
         urlTitle = title.replace(" ", "+");
         # print(urlTitle);
@@ -14,7 +14,7 @@ with open("titles.md") as fp:
             searchSoup = BeautifulSoup(searchPage.content, 'html.parser')
             search = searchSoup.find_all('i', class_="fa-magnet")
 
-            wf = open("d-links.md", "w")
+            wf = open("../bin/d-links.md", "w")
             wf.write(title + ":\n")
             for searchResults in search:
                 # print(searchResults)
